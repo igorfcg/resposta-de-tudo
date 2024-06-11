@@ -1,4 +1,4 @@
-import { pacientes } from "./hospital-lib"
+import { pacientes, triagem } from "./hospital-lib"
 
 interface Paciente {
     nome: string
